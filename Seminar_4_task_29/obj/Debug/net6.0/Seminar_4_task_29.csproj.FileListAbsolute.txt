@@ -1,0 +1,15 @@
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.csproj.AssemblyReference.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.AssemblyInfoInputs.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.AssemblyInfo.cs
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.csproj.CoreCompileInputs.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\bin\Debug\net6.0\Seminar_4_task_29.exe
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\bin\Debug\net6.0\Seminar_4_task_29.deps.json
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\bin\Debug\net6.0\Seminar_4_task_29.runtimeconfig.json
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\bin\Debug\net6.0\Seminar_4_task_29.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\bin\Debug\net6.0\Seminar_4_task_29.pdb
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\refint\Seminar_4_task_29.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.pdb
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\Seminar_4_task_29.genruntimeconfig.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_4_task_29\obj\Debug\net6.0\ref\Seminar_4_task_29.dll
