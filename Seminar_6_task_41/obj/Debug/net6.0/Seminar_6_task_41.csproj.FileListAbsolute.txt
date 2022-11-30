@@ -1,0 +1,15 @@
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.csproj.AssemblyReference.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.AssemblyInfoInputs.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.AssemblyInfo.cs
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.csproj.CoreCompileInputs.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\bin\Debug\net6.0\Seminar_6_task_41.exe
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\bin\Debug\net6.0\Seminar_6_task_41.deps.json
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\bin\Debug\net6.0\Seminar_6_task_41.runtimeconfig.json
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\bin\Debug\net6.0\Seminar_6_task_41.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\bin\Debug\net6.0\Seminar_6_task_41.pdb
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\refint\Seminar_6_task_41.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.pdb
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\Seminar_6_task_41.genruntimeconfig.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_6_task_41\obj\Debug\net6.0\ref\Seminar_6_task_41.dll
