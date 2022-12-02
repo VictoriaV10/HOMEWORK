@@ -1,0 +1,15 @@
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\bin\Debug\net6.0\Seminar_7_task_52.exe
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\bin\Debug\net6.0\Seminar_7_task_52.deps.json
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\bin\Debug\net6.0\Seminar_7_task_52.runtimeconfig.json
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\bin\Debug\net6.0\Seminar_7_task_52.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\bin\Debug\net6.0\Seminar_7_task_52.pdb
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.csproj.AssemblyReference.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.AssemblyInfoInputs.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.AssemblyInfo.cs
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.csproj.CoreCompileInputs.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\refint\Seminar_7_task_52.dll
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.pdb
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\Seminar_7_task_52.genruntimeconfig.cache
+E:\Desktop\HW\Seminar\Seminar_2\Seminar_7_task_52\obj\Debug\net6.0\ref\Seminar_7_task_52.dll
